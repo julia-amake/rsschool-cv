@@ -46,13 +46,13 @@ const findMaximums = (arr: number[], k: number) => (
 
 ## Work Experience
 
-<div style="display: flex; justify-content: space-between; font-weight: bold;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; font-weight: bold;">
 <span>DESBI • Frontend Developer</span>
 <span>2022 - 2024</span>
 </div>
 Platform for effective real estate management and interaction between developers, 
 realtors and clients.<br><br>
-<div style="display: flex; justify-content: space-between; font-weight: bold;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; font-weight: bold;">
 <span>AMAKE • Frontend Developer</span>
 <span>2021 - 2022</span>
 </div>
